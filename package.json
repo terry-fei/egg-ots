@@ -1,6 +1,6 @@
 {
   "name": "egg-ots",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "tablestore client for eggjs",
   "eggPlugin": {
     "name": "ots"
